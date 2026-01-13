@@ -1,0 +1,13 @@
+<Creating and Managing Branches>
+
+* Go to repo
+
+* Go to new-branch
+
+* Create,Add,Commit a file
+
+* Go to master
+
+* Merge new-branch
+
+* List all the branches
