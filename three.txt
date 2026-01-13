@@ -1,0 +1,23 @@
+<Creating and Managing Branches>
+
+* Go to repo
+
+* Go to BA
+
+* //Create, and only Add a file
+
+* //git stash
+
+* Go to BB
+
+* Create,Add,Commit a file
+
+* Go to BA
+
+* ls
+
+* //git stash list
+  //git stash apply
+  //git stash pop
+
+* ls

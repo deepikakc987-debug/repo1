@@ -1,0 +1,12 @@
+<Cloning a Git Repo <-> Collaboration and remote repositories>
+
+* git clone
+
+* Go into cloned repo
+
+* //git remote -v
+
+* Create,Add,Commit a file
+
+* //git push origin main
+  //git pull origin main
