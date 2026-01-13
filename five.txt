@@ -1,0 +1,38 @@
+<Collaboration and Remote Applications>
+
+* Clone an existing repo
+
+* ls
+
+* git fetch
+
+* git log --oneline --graph --all
+
+* git branch b1
+
+* ls
+
+* git branch b2
+
+* git log...
+
+* git checkout b1
+
+* create,add,commit hello1.txt
+
+* create,add,commit hello2.txt
+
+* create,add,commit hello3.txt
+
+* git checkout b2
+
+* git rebase b1
+
+* git log...
+
+* cat,add,commit hello3.txt after rebase
+
+* ls
+
+* git log...
+
