@@ -1,0 +1,17 @@
+<Setting up and basic commands>
+
+* git --version
+
+* git config --system --user.name "Shreyas"
+		      --user.email
+             --global
+
+* //git config --global --list
+
+1. Initialize repo
+2. Go to repo
+3. Create file
+4. Print file
+5. Stage file
+6. Commit file
+7. List files
