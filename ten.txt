@@ -1,0 +1,7 @@
+<List all commits by using filters>
+
+* Go to repo
+
+* Ensure repo
+
+*//git log --author="" --since="" --until=""

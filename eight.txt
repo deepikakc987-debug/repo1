@@ -1,0 +1,15 @@
+<Cherry-Pick operation>
+
+* Init
+
+* Go to feature
+
+* create,add,commit file1.txt, file2.txt, file3.txt
+
+* view log
+
+* Go to main
+
+* git cherry-pick <range>
+
+* view log

@@ -1,0 +1,13 @@
+<Collaboration and remote repos>
+To merge feature-branch into master while providing a custom commit msg
+
+* Go to repo
+
+* //git branch -> check available branches
+
+* Switch to master
+
+* //git merge feature-branch -m "merged" -> merge with msg
+
+* git log --oneline
+ 

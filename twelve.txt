@@ -1,0 +1,7 @@
+<Revert>
+
+* Go to repo
+
+* Choose commit id from log
+
+*//git revert <commit-id>

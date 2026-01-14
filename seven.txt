@@ -1,0 +1,13 @@
+<Git Tags and Release>
+
+* Go to repo
+
+* git log --oneline
+
+*//git tag v1.0 -> create tag
+
+*//git tag -> verify tag is created
+
+* git log --oneline
+
+*//git show v1.0

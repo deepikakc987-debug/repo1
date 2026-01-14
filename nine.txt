@@ -1,0 +1,9 @@
+<Given a commit ig, show git to view the details of that specific commit>
+
+* Go to repo
+
+* Ensure repo -> git status
+
+* View log
+
+* //git show <commit-id>
